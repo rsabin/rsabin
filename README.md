@@ -21,6 +21,3 @@
   <img align="center" alt="MySql" title="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Oracle" title="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
-
-
-https://github-stats-extended.vercel.app/
