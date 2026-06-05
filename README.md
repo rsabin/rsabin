@@ -1,6 +1,6 @@
 # Ronaldo 'Sabin' Domingos 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rsabin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)](https://github.com/rsabin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsabin&layout=compact&langs_count=7&theme=midnight-purple)](https://github.com/rsabin)
+[![Github Stats](https://github-stats-extended.vercel.app/api?username=rsabin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)](https://github.com/rsabin)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rsabin&layout=compact&langs_count=7&theme=midnight-purple)](https://github.com/rsabin)
 
 ## Languages known 
 <div style="display: inline_block">
@@ -22,3 +22,5 @@
   <img align="center" alt="Oracle" title="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
 
+
+https://github-stats-extended.vercel.app/
